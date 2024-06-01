@@ -23,7 +23,7 @@ The UVA Chatbot is an AI assistant created to help students with competitive pro
 
 ## Architecture
 <div align="center">
-  <img src="https://github.com/LuisEduardoF/UVA-Chatbot/blob/main/Gravando-2024-05-31-212047.gif" alt="Chatbot Demo" width="500" height="400"/>
+  <img src="https://github.com/LuisEduardoF/UVA-Chatbot/blob/main/assets/Blank%20diagram.png" alt="Chatbot Demo" width="500" height="400"/>
 </div>
 ## Features
 
