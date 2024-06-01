@@ -129,6 +129,6 @@ Absolutely! Let's break down the problem and solve it step-by-step.
     OPENAI_API_KEY=""
    ```
 3. **Run Streamlit App**
-```bash
-streamlit run src/main.py
-```
+  ```bash
+  streamlit run src/main.py
+  ```
