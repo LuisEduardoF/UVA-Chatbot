@@ -121,7 +121,7 @@ Absolutely! Let's break down the problem and solve it step-by-step.
 1. **Install Required Libraries**:
    ```bash
    pip install -r requirements.txt
-   ``
+   ```
 2. **Setup enviroment keys**:
    ```bash
     PINECONE_API_KEY=""
