@@ -1,3 +1,4 @@
+<img src="https://onlinejudge.org/templates/hm_yaml_2_5/img/ojlogo2.svg.png"/>
 
 # UVA Chatbot with Python
 
@@ -22,9 +23,11 @@ The UVA Chatbot is an AI assistant created to help students with competitive pro
 5. **Considering Constraints**: Pay attention to constraints like time limits, memory limits, and input size.
 
 ## Architecture
+
 <div align="center">
-  <img src="https://github.com/LuisEduardoF/UVA-Chatbot/blob/main/assets/Blank%20diagram.png" alt="Chatbot Demo" width="500" height="400"/>
+  <img src="https://github.com/LuisEduardoF/UVA-Chatbot/blob/main/assets/Blank%20diagram%20(1).png" alt="Chatbot Demo" width="600" height="400"/>
 </div>
+
 ## Features
 
 - **Problem Understanding**: The chatbot thoroughly reads and understands the problem statement.
@@ -126,3 +129,6 @@ Absolutely! Let's break down the problem and solve it step-by-step.
     OPENAI_API_KEY=""
    ```
 3. **Run Streamlit App**
+```bash
+streamlit run src/main.py
+```
