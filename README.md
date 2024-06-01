@@ -1,7 +1,15 @@
 
 # UVA Chatbot with Python
-![](https://github.com/LuisEduardoF/UVA-Chatbot/)
-This project implements a chatbot designed to assist with questions from the UVA competitive programming book. It leverages Python, Langchain, ChatGPT, Pinecone, and Streamlit to provide solutions, explanations, and hints for coding problems.
+
+This project implements a chatbot designed to assist with questions from the UVA competitive programming book. 
+
+It leverages Python, Langchain, ChatGPT, Pinecone, and Streamlit to provide solutions, explanations, and hints for UVA coding problems.
+
+## Demo
+
+<div align="center">
+  <img src="https://github.com/LuisEduardoF/UVA-Chatbot/blob/main/Gravando-2024-05-31-212047.gif" alt="Chatbot Demo" width="500" height="400"/>
+</div>
 
 ## Purpose
 
@@ -13,6 +21,10 @@ The UVA Chatbot is an AI assistant created to help students with competitive pro
 4. **Offering Hints**: Guide students with incremental hints without giving away the entire solution.
 5. **Considering Constraints**: Pay attention to constraints like time limits, memory limits, and input size.
 
+## Architecture
+<div align="center">
+  <img src="https://github.com/LuisEduardoF/UVA-Chatbot/blob/main/Gravando-2024-05-31-212047.gif" alt="Chatbot Demo" width="500" height="400"/>
+</div>
 ## Features
 
 - **Problem Understanding**: The chatbot thoroughly reads and understands the problem statement.
